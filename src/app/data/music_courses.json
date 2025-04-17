@@ -1,0 +1,56 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 89.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
+      },
+      {
+        "id": 3,
+        "title": "Drum Mastery 101",
+        "slug": "drum-mastery-101",
+        "description": "Discover the rhythm and techniques of professional drumming in this beginner's course.",
+        "price": 79.99,
+        "instructor": "Mike Johnson",
+        "isFeatured": true,
+        "image": "/courses/drum.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Violin Essentials",
+        "slug": "violin-essentials",
+        "description": "Explore the fundamentals of violin playing and develop your skills with hands-on lessons.",
+        "price": 119.99,
+        "instructor": "Emily Davis",
+        "isFeatured": true,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Flute Basics",
+        "slug": "flute-basics",
+        "description": "Learn to play the flute with confidence in this beginner-friendly course for all ages.",
+        "price": 69.99,
+        "instructor": "Sophia Lee",
+        "isFeatured": true,
+        "image": "/courses/flute.jpg"
+        
+      }
+    ]
+  }
+  
